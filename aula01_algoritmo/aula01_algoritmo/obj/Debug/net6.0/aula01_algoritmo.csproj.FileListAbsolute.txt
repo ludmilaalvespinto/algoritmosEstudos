@@ -1,0 +1,15 @@
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\bin\Debug\net6.0\aula01_algoritmo.exe
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\bin\Debug\net6.0\aula01_algoritmo.deps.json
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\bin\Debug\net6.0\aula01_algoritmo.runtimeconfig.json
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\bin\Debug\net6.0\aula01_algoritmo.dll
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\bin\Debug\net6.0\aula01_algoritmo.pdb
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\aula01_algoritmo.csproj.AssemblyReference.cache
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\aula01_algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\aula01_algoritmo.AssemblyInfoInputs.cache
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\aula01_algoritmo.AssemblyInfo.cs
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\aula01_algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\aula01_algoritmo.dll
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\refint\aula01_algoritmo.dll
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\aula01_algoritmo.pdb
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\aula01_algoritmo.genruntimeconfig.cache
+C:\Users\alves\Documents\algoritmos\aula01_algoritmo\aula01_algoritmo\obj\Debug\net6.0\ref\aula01_algoritmo.dll
